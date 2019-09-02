@@ -1,0 +1,6 @@
+Middlewares/
+Drivers/
+Documents/
+MDK-ARM/ADC - Simulation/
+*.ioc
+.mxproject
